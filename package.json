@@ -1,0 +1,14 @@
+{
+  "name": "AdventOfCode",
+  "version": "1.0.0",
+  "description": "Advent of code 2023",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jérémie Bardon<jerembardon@gmail.com>",
+  "license": "ISC"
+}
